@@ -1,0 +1,13 @@
+Package: HLSToolBox
+Type: Package
+Title: This package is intended to download and process HLS dataset
+Version: 0.1.0
+Imports: jsonlite, dplyr, ggplot2, raster
+Depends: dplyr, purrr, raster
+Author: Who wrote it
+Maintainer: Hamze Dokoohaki <hamzed@illinois.edu>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
